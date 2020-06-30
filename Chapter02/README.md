@@ -1,4 +1,4 @@
-## Notes for Chapter 2: The mathematical building blocks of neural networks
+# Notes for Chapter 2: The mathematical building blocks of neural networks
 
 * In machine learning, a category in a classification problem is called a class. Data points are called samples. The class associated with a specific sample is called a label.
 

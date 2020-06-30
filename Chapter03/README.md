@@ -1,4 +1,4 @@
-## Notes for Chapter 3: Getting started with neural networks
+# Notes for Chapter 3: Getting started with neural networks
 
 * Three most common use cases of neural networks:
     * Binary classification

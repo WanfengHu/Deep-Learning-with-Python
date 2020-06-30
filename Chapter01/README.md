@@ -1,4 +1,4 @@
-## Notes for Chapter 1: What is deep learning?
+# Notes for Chapter 1: What is deep learning?
 
 * Deep learning $\subset$  Machine learning $\subset$ Artificial intelligence
 
