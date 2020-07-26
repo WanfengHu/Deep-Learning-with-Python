@@ -2,3 +2,4 @@
 keras
 
 *.h5
+my_log_dir
